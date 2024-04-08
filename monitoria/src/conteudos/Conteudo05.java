@@ -1,4 +1,4 @@
-package prova01;
+package conteudos;
 
 import java.util.Scanner;
 
